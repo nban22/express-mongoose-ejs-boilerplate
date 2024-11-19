@@ -14,6 +14,20 @@ This project is a backend server built using **Express.js** with **Mongoose** as
 
 ---
 
+## Demo
+
+Below are some screenshots of the application:
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+
+### Create User
+![Create User](./screenshots/create-user-page.png)
+
+### Login Page
+![Login Page](./screenshots/login-page.png)
+
+
 ## Getting Started
 
 ### 1. Clone the repository
